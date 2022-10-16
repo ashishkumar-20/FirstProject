@@ -151,11 +151,6 @@ header{
         font-weight: 700;
         cursor: pointer;
     }
-  
-    .container{
-        display: flex;
-        justify-content: center;
-    }
     .btn{
         background-color: blue;
         width: 120px;
